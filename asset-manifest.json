@@ -1,19 +1,23 @@
 {
   "files": {
-    "main.css": "/my-first-Reactproject/static/css/main.ce699c04.css",
-    "main.js": "/my-first-Reactproject/static/js/main.9c41f14c.js",
+    "main.css": "/my-first-Reactproject/static/css/main.305919e1.css",
+    "main.js": "/my-first-Reactproject/static/js/main.61bd1c08.js",
     "static/js/787.c4e7f8f9.chunk.js": "/my-first-Reactproject/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/busin.jpeg": "/my-first-Reactproject/static/media/busin.2d98c1400a48692a8346.jpeg",
+    "static/media/tea.jpeg": "/my-first-Reactproject/static/media/tea.f6d25d8ca34407eefa50.jpeg",
+    "static/media/off.jpeg": "/my-first-Reactproject/static/media/off.aa22fee511f2f7221204.jpeg",
+    "static/media/teir.png": "/my-first-Reactproject/static/media/teir.1d467cc1905886937eac.png",
     "static/media/slick.svg": "/my-first-Reactproject/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/my-first-Reactproject/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/my-first-Reactproject/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/my-first-Reactproject/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/my-first-Reactproject/index.html",
-    "main.ce699c04.css.map": "/my-first-Reactproject/static/css/main.ce699c04.css.map",
-    "main.9c41f14c.js.map": "/my-first-Reactproject/static/js/main.9c41f14c.js.map",
+    "main.305919e1.css.map": "/my-first-Reactproject/static/css/main.305919e1.css.map",
+    "main.61bd1c08.js.map": "/my-first-Reactproject/static/js/main.61bd1c08.js.map",
     "787.c4e7f8f9.chunk.js.map": "/my-first-Reactproject/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ce699c04.css",
-    "static/js/main.9c41f14c.js"
+    "static/css/main.305919e1.css",
+    "static/js/main.61bd1c08.js"
   ]
 }
